@@ -1,0 +1,92 @@
+{
+	"info": {
+		"_postman_id": "65891725-8d53-405d-ac67-ae15d815ac80",
+		"name": "Student - TransferCreditInformation_APIs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26523959"
+	},
+	"item": [
+		{
+			"name": "Get All Transfer Credit Types Details",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Transfer Credit Types Details By Id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Transfer Types Details",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Transfer Credit Statuses Details",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Transfer Credit Statuses Details By Id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Unapproved Transfer Credit Statuses List",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "Usename",
+			"value": "Test",
+			"type": "string"
+		},
+		{
+			"key": "Password",
+			"value": "Test",
+			"type": "string"
+		}
+	]
+}
